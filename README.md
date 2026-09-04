@@ -1,1 +1,3 @@
-# MSc_Essential_Statistical_Modelling_Assignment
+# Final assignment for University of Birmingham, MSc module on Statistical Modelling.
+
+This assignment was by far one of my favourites, particularly the snakes and ladders simluation.
